@@ -2,8 +2,8 @@ const fs = require('fs')
 
 global.creator = 'Tamaes'// yourname
 global.MONGO_DB_URI = "mongodb+srv://tamaes:tamakun29@cluster-tamaes.apaqgse.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
-global.ACTIVATION_TOKEN_SECRET = "tama" //isi apa aja bebas
-global.your_email = "tamskun29@gmail.com" //email
+global.ACTIVATION_TOKEN_SECRET = "-@iniapitama#20" //isi apa aja bebas
+global.your_email = "tamskun96@gmail.com" //email
 global.email_password = "tamakun29" //application password email
 global.limitCount = 10000
 global.YUOR_PORT = 8000
